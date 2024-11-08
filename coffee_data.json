@@ -156,7 +156,7 @@
     {
         "title": "Seasonal Brew",
         "description": "Seasonal coffee with various flavor notes such as caramel, fruit and chocolate",
-        "ingredients": ["Coffee"],
+        "ingredients": ["coffee"],
         "image": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxibGFjayUyMGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D",
         "id": 12,
         "price": 3.00,
