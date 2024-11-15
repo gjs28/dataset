@@ -92,7 +92,23 @@
     "sugar_content": 18,
     "stock_quantity": 50,
     "sales_volume": 90,
-    "created_at": "2024-11-16 00:10:00",
-    "updated_at": "2024-11-16 00:10:00"
+    "created_at": "2024-11-15 19:20:00",
+    "updated_at": "2024-11-15 19:20:00"
+    },
+    {
+    "id": 28,
+    "title": "Australian Iced Coffee",
+    "description": "A refreshing coffee drink served cold with a scoop of vanilla ice cream, perfect for sunny afternoons.",
+    "ingredients": ["Cold Brew Coffee", "Vanilla Ice Cream", "Milk", "Sugar"],
+    "image": "https://images.unsplash.com/photo-1572887470266-6d865a45e6f8",
+    "price": 5.50,
+    "calories": 250,
+    "preparation_time": 10,
+    "caffeine_content": 95,
+    "sugar_content": 22,
+    "stock_quantity": 40,
+    "sales_volume": 75,
+    "created_at": "2024-11-15 19:29:00",
+    "updated_at": "2024-11-15 19:29:00"
     }
 ]
