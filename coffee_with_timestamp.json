@@ -12,8 +12,8 @@
         "sugar_content": 10,
         "stock_quantity": 80,
         "sales_volume": 150,
-        "created_at": "2024-11-08 10:17:47",
-        "updated_at": "2024-11-08 10:17:47"
+        "created_at": "2024-11-15 21:07:47",
+        "updated_at": "2024-11-15 21:07:47"
     },
     {
         "id": 23,
@@ -28,8 +28,8 @@
         "sugar_content": 8,
         "stock_quantity": 90,
         "sales_volume": 180,
-        "created_at": "2024-11-08 10:17:47",
-        "updated_at": "2024-11-08 10:17:47"
+        "created_at": "2024-11-15 21:07:47",
+        "updated_at": "2024-11-15 21:07:47"
     },
     {
         "id": 24,
@@ -44,8 +44,8 @@
         "sugar_content": 12,
         "stock_quantity": 70,
         "sales_volume": 130,
-        "created_at": "2024-11-08 10:17:47",
-        "updated_at": "2024-11-08 10:17:47"
+        "created_at": "2024-11-15 21:07:47",
+        "updated_at": "2024-11-15 21:07:47"
     },
     {
         "id": 25,
@@ -60,8 +60,8 @@
         "sugar_content": 7,
         "stock_quantity": 85,
         "sales_volume": 160,
-        "created_at": "2024-11-08 10:17:47",
-        "updated_at": "2024-11-08 10:17:47"
+        "created_at": "2024-11-15 21:07:47",
+        "updated_at": "2024-11-15 21:07:47"
     },
     {
         "id": 26,
@@ -76,7 +76,7 @@
         "sugar_content": 15,
         "stock_quantity": 60,
         "sales_volume": 100,
-        "created_at": "2024-11-08 10:17:47",
-        "updated_at": "2024-11-08 10:17:47"
+        "created_at": "2024-11-15 21:07:47",
+        "updated_at": "2024-11-15 21:07:47"
     }
 ]
