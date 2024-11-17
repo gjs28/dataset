@@ -131,7 +131,7 @@
     "id": 30,
     "title": "British Hot Chocolate",
     "description": "A rich and creamy hot chocolate made with milk and topped with whipped cream, ideal for chilly evenings.",
-    "ingredients": ["Cocoa", "Milk", "Sugar", "Whipped Cream"],
+    "ingredients": ["Cocoa", "Milk", "Whipped Cream"],
     "image": "https://images.unsplash.com/photo-1604908554326-7597abdd243e",
     "price": 4.50,
     "calories": 320,
