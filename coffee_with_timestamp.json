@@ -147,7 +147,7 @@
     "id": 31,
     "title": "Japanese Iced Coffee",
     "description": "A smooth and refreshing iced coffee made with high-quality beans, brewed directly over ice to preserve its rich flavor and aroma.",
-    "ingredients": ["Coffee", "Ice"],
+    "ingredients": ["Coffee"],
     "image": "https://images.unsplash.com/photo-1553656322-e470734d26f2",
     "price": 4.20,
     "calories": 120,
@@ -156,7 +156,7 @@
     "sugar_content": 0,
     "stock_quantity": 40,
     "sales_volume": 150,
-    "created_at": "2024-11-17 07:55:00",
-    "updated_at": "2024-11-17 07:55:00"
+    "created_at": "2024-11-17 08:37:00",
+    "updated_at": "2024-11-17 08:37:00"
     }
 ]
