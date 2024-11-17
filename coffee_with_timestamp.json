@@ -124,7 +124,23 @@
     "sugar_content": 5,
     "stock_quantity": 50,
     "sales_volume": 120,
-    "created_at": "2024-11-16 20:00:00",
-    "updated_at": "2024-11-16 20:00:00"
+    "created_at": "2024-11-15 20:00:00",
+    "updated_at": "2024-11-15 20:00:00"
+    },
+    {
+    "id": 30,
+    "title": "British Hot Chocolate",
+    "description": "A rich and creamy hot chocolate made with milk and topped with whipped cream, ideal for chilly evenings.",
+    "ingredients": ["Cocoa", "Milk", "Sugar", "Whipped Cream"],
+    "image": "https://images.unsplash.com/photo-1604908554326-7597abdd243e",
+    "price": 4.50,
+    "calories": 320,
+    "preparation_time": 7,
+    "caffeine_content": 10,
+    "sugar_content": 30,
+    "stock_quantity": 35,
+    "sales_volume": 95,
+    "created_at": "2024-11-16 06:45:00",
+    "updated_at": "2024-11-16 06:45:00"
     }
 ]
